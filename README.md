@@ -6,7 +6,7 @@
 
 
 ## 🕵️‍♂️ Sobre Mim
-```bash
+
 > Explorando sistemas, construindo soluções e hackeando o impossível.
 
 🖥️ Desenvolvedor full-stack apaixonado por tecnologia e segurança digital.
@@ -63,4 +63,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
 </p>
-```
+
