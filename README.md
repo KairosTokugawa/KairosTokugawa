@@ -1,66 +1,62 @@
-## # 🖤 Bem-vindo ao meu mundo Dev Hacker! 🖤
+<h1 align="center">👨‍💻 Bem-vindo ao Meu Perfil Hacker-Style! 👩‍💻</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=%3E+Code+is+Art.;%3E+Hacking+the+System.;%3E+Desvendando+Segredos+do+Backend." alt="Typing SVG">
+</p>
+
+
+## 🕵️‍♂️ Sobre Mim
 ```bash
-> "Os códigos mais limpos são como poesia: arte e funcionalidade."
+> Explorando sistemas, construindo soluções e hackeando o impossível.
 
-# 🖤 Bem-vindo ao meu mundo Dev Hacker! 🖤
+🖥️ Desenvolvedor full-stack apaixonado por tecnologia e segurança digital.
 
-```bash
-> "Os códigos mais limpos são como poesia: arte e funcionalidade."
+🔒 Focado em Pentest, Automação e DevOps.
 
-
-🌌 Sobre Mim
-
-💻 Desenvolvedor apaixonado por tecnologia e segurança digital.
-
-🔍 Sempre explorando novas linguagens, frameworks e hacks criativos.
-
-🛠️ Especializado em Backend, Cybersecurity e DevOps.
+🌐 Visitante frequente da linha de comando.
 
 
+🔧 Tecnologias e Ferramentas
 
-🚀 Linguagens e Ferramentas
-
-> Linguagens que domino:
-Phyton
-C
-Bash
-JavaScript 
+> Minhas armas favoritas:
 
 
 
 📊 Estatísticas do GitHub
 
-> Análise dos meus repositórios e linguagens:
+> Mapeando atividades:
 
- 
-
-🛡️ Hacker Mode ON
-
-> Sistemas em vigilância constante:
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true" width="400">
+</p>
 
 
-🔥 Meus Projetos Destacados
+💻 Projetos Destacados
 
-> Clique para explorar:
+> Algumas criações:
 
-🔗 Projeto Incrível 1 - Um bot de automação hacker-style.
+🔗 Ferramenta de Pentest - Explorador de redes em Python.
 
-🔗 Projeto Incrível 2 - Ferramenta de pentest em Python.
+🔗 API Minimalista - Backend poderoso e eficiente em Go.
 
-
-
-
-🧙‍♂️ Citação Favorita
-
-> "Talk is cheap. Show me the code." - Linus Torvalds
+🔗 Automação Linux - Scripts bash para tarefas complexas.
 
 
 
-⚡ Contato e Redes
+🛡️ Hacker Mode
 
-> 📫 como entrar em contato comigo: kairostokugawa@outlook.com
+> Mantendo o sistema em operação...
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400">
+</p>
+
+
+📡 Conecte-se Comigo
+
+> 📫 Onde me encontrar: kairostokugawa@outlook.com
+
   
 
 
