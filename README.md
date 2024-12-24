@@ -2,20 +2,12 @@
 
 ```bash
 > "Os códigos mais limpos são como poesia: arte e funcionalidade."
-Aqui está um exemplo completo de um repositório estilo "Dev Hacker" para você simplesmente copiar e colar no arquivo README.md do seu repositório GitHub. Ele inclui efeitos visuais, estatísticas, imagens e elementos que lembram um terminal.
-
-
----
-
-Código para o README.md
 
 # 🖤 Bem-vindo ao meu mundo Dev Hacker! 🖤
 
 ```bash
 > "Os códigos mais limpos são como poesia: arte e funcionalidade."
 
-
----
 
 🌌 Sobre Mim
 
@@ -25,7 +17,7 @@ Código para o README.md
 
 🛠️ Especializado em Backend, Cybersecurity e DevOps.
 
----
+
 
 🚀 Linguagens e Ferramentas
 
@@ -35,21 +27,19 @@ C
 Bash
 JavaScript 
 
----
+
 
 📊 Estatísticas do GitHub
 
 > Análise dos meus repositórios e linguagens:
 
  
----
 
 🛡️ Hacker Mode ON
 
 > Sistemas em vigilância constante:
 
 
----
 
 🔥 Meus Projetos Destacados
 
@@ -61,22 +51,18 @@ JavaScript
 
 
 
----
 
 🧙‍♂️ Citação Favorita
 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
 
----
 
 ⚡ Contato e Redes
 
 > 📫 como entrar em contato comigo: kairostokugawa@outlook.com
   
 
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
